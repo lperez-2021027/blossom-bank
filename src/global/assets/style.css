@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Baloo+2:wght@400;800&family=Lexend&display=swap');
+
+.txt-logo {
+    font-family: 'Agdasima', sans-serif;
+}
+
+.txt-secondary {
+    font-family: 'Baloo 2', cursive;
+}
+
+.txt-buttons {
+    font-family: 'Roboto', sans-serif;
+}
+
+.txt-options {
+    font-family: 'Playfair Display', serif;
+}
+
+.txt-list { 
+    font-family: 'Ysabeau Office', sans-serif;
+}
+
+form div label {
+    font-family: 'Baloo 2', cursive;
+}
